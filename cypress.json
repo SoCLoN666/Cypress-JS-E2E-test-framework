@@ -1,0 +1,10 @@
+{
+    "testFiles": "**/*.{feature,features}",
+    "chromeWebSecurity": false,
+    "env": {
+        "BASE_URL": "https://www.saucedemo.com/",
+        "INVENTORY_ENDPOINT": "inventory.html",
+        "LOGIN": "standard_user",
+        "PASSWORD": "secret_sauce"
+    }
+}
